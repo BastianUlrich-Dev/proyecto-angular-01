@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "proyecto-angular-a964c": {
+      "hosting": {
+        "platzi-store": [
+          "proyecto-angular-a964c"
+        ]
+      }
+    }
+  }
+}
